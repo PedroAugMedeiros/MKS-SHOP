@@ -6,7 +6,7 @@ export default function Logo() {
         <S.MainText>
           MKS
       </S.MainText><S.SecondaryText>
-              Sistemas
+              Sistemasdcadaed
           </S.SecondaryText>
           </S.Logo>
   
