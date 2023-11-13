@@ -11,11 +11,12 @@ export default function ProductsList() {
 
 
   const renderProducts = () => {
-    return products && products.map((product: { url: string; id: string; name: string; }) => {
-      return (
-        <ProductCard product={product}/>
-      )
-    })
+    // return products && products.map((product: { url: string; id: string; name: string; }) => {
+    //   return (
+    //     <ProductCard product={product}/>
+    //   )
+    // })
+    return 'axaxda'
   }
   
   return (

@@ -11,7 +11,6 @@ border-radius: 8px;
 
 
 export const MainText = styled.div`
-display: inline;
 color: white;
 font-size: 40px;
 font-family: Montserrat;
