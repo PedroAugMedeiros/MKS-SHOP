@@ -3,8 +3,7 @@ import styled from 'styled-components';
 export const Logo = styled.div`
 display: flex;
 align-items: center;
-justify-content: space-between;
-align-items: center;
+justify-content: space-around;
 height: 45px;
 top: 29px;
 border-radius: 8px;
@@ -17,24 +16,20 @@ color: white;
 font-size: 40px;
 font-family: Montserrat;
 font-weight: 600;
-align-self: start;
-vertical-align: auto;
+
 `;
 
 
 export const SecondaryText = styled.div`
-display: inline;
+display: flex;
+width: 200px;
+height: 10px;
+flex-shrink: 0;
 color: #FFF;
 font-family: Montserrat;
 font-size: 20px;
 font-style: normal;
 font-weight: 300;
 line-height: 19px;
-text-align: center;
-align-self: center;
-vertical-align: auto;
-width: 200px;
-height: 44px;
-flex-shrink: 0;
 `;
 

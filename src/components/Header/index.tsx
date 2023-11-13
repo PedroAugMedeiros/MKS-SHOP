@@ -1,7 +1,7 @@
 import React from 'react'
 import * as S from './index.styles'
 import Logo from './Logo';
-import CartButton from './CardButton';
+import CartButton from './CartButton';
 
 export default function Header() {
   return (
